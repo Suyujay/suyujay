@@ -2,7 +2,7 @@
 
 ## Hi, I am Suyujay. A developer  working at Synopsys Inc.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=The%20only%20ones%20who%20should%20code%20are%20those%20who%20are%20prepared%20to%20code.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=Every%20commit%20builds%20the%20future.
 )](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyujay&show_icons=true&layout=compact&hide=issues&line_height=24)](https://github.com/Suyujay/github-readme-stats)
