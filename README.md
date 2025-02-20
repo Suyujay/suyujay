@@ -1,5 +1,14 @@
-## Hi there 👋
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+
+## Hi, I am Suyujay. A passionate software developer currently working at Synopsys Inc.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&quote=The%20only%20ones%20who%20should%20code%20are%20those%20who%20are%20prepared%20to%20code.
+)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForgerWise&show_icons=true&layout=compact&hide=issues&line_height=24)](https://github.com/ForgerWise/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForgerWise&layout=compact)](https://github.com/ForgerWise/github-readme-stats)
+
+</div>
 
 <!--
 **Suyujay/suyujay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
